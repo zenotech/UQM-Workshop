@@ -35,12 +35,9 @@ holoviews==1.8.4
 colorcet==0.9.1
 xarray==0.9.6
 cloudpickle==0.4.1
-# ipyvolume==0.4.0  #  Disabling for now as requires Pillow which requires libjpeg
-pythreejs==0.4.1
 paramnb==2.0.2
 jupyterlab==0.28.11
 jupyterlab-widgets==0.6.15
 ipympl==0.0.8
 #git+https://github.com/ioam/parambokeh.git
 git+https://github.com/zenotech/epic-cli.git@develop
-git+https://github.com/zCFD/zutil.git
